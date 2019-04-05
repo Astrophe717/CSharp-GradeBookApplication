@@ -1,6 +1,6 @@
 # C Sharp Grade Book Application
 
-The C Sharp Grade Book Application is a designed to allow instructors to create gradebooks, add students to those grade books, add grades to those students, and calculate statics such as GPA (Grade Point Average).
+The C Sharp Grade Book Application is designed to allow instructors to create gradebooks, add students to those grade books, add grades to those students, and calculate statics such as GPA (Grade Point Average).
 
 ## Accepted Commands
 
